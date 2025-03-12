@@ -153,7 +153,7 @@ levels = [
 
 
 topics = [
-    // Personal & Biographical
+    # Personal & Biographical
     "My Best Friend", "A Day at the Park", "Importance of Kindness", "My Favorite Animal", "A Trip to the Moon",
     "If I Had a Superpower", "A Letter to Santa", "Why Books Are Important", "The Magic Pencil", "A Rainy Day",
     "Saving the Environment", "The Funniest Day of My Life", "My Dream Job", "An Adventure in the Jungle",
@@ -170,7 +170,7 @@ topics = [
     "My Cultural Heritage",
     "My Educational Experience",
     
-    // Academic Essays
+    # Academic Essays
     "Climate Change Impact Analysis",
     "Historical Event Analysis",
     "Literary Criticism Essay",
@@ -182,7 +182,7 @@ topics = [
     "Environmental Policy Review",
     "Educational Theory Discussion",
     
-    // Business Content
+    # Business Content
     "Executive Summary",
     "Business Proposal",
     "Marketing Strategy",
@@ -204,7 +204,7 @@ topics = [
     "Industry Trend Analysis",
     "Sales Script",
     
-    // Marketing & Advertising
+    # Marketing & Advertising
     "Email Newsletter",
     "Social Media Post",
     "Ad Copy",
@@ -226,7 +226,7 @@ topics = [
     "User Guide",
     "FAQ Section",
     
-    // Creative Writing
+    # Creative Writing
     "Short Story",
     "Poem",
     "Dialogue Scene",
@@ -248,7 +248,7 @@ topics = [
     "Memoir Excerpt",
     "Personal Essay",
     
-    // Technical Writing
+    # Technical Writing
     "Technical Specification",
     "API Documentation",
     "Code Explanation",
@@ -265,7 +265,7 @@ topics = [
     "Algorithm Explanation",
     "Technical Concept Definition",
     
-    // Health & Wellness
+    # Health & Wellness
     "Nutritional Guide",
     "Fitness Routine",
     "Mental Health Tips",
@@ -282,7 +282,7 @@ topics = [
     "Symptom Checker",
     "Recovery Story",
     
-    // Travel & Lifestyle
+    # Travel & Lifestyle
     "Travel Destination Guide",
     "Packing List",
     "Itinerary Planning",
@@ -299,7 +299,7 @@ topics = [
     "Off-the-Beaten-Path Suggestions",
     "Travel Story",
     
-    // Education & Learning
+    # Education & Learning
     "Lesson Plan",
     "Educational Resource",
     "Learning Objective",
@@ -316,7 +316,7 @@ topics = [
     "Educational Technology Review",
     "Classroom Management Tips",
     
-    // Web Content
+    # Web Content
     "Website Homepage",
     "About Us Page",
     "Services Page",
@@ -333,7 +333,7 @@ topics = [
     "Portfolio Description",
     "Team Member Bio",
     
-    // Professional Documents
+    # Professional Documents
     "Resume/CV",
     "Cover Letter",
     "Recommendation Letter",
@@ -350,7 +350,7 @@ topics = [
     "Professional Development Plan",
     "Career Transition Narrative",
     
-    // Social Media Content
+    # Social Media Content
     "Twitter/X Post",
     "Facebook Update",
     "Instagram Caption",
@@ -367,7 +367,7 @@ topics = [
     "Social Media Contest",
     "Social Media Trend Analysis",
     
-    // Entertainment
+    # Entertainment
     "Movie Review",
     "Book Review",
     "Music Review",
@@ -384,7 +384,7 @@ topics = [
     "Media Comparison",
     "Entertainment Industry Trend",
     
-    // Legal Content
+    # Legal Content
     "Legal Agreement",
     "Contract Clause",
     "Legal Notice",
@@ -401,7 +401,7 @@ topics = [
     "Legal Document Template",
     "Legal Term Definition",
     
-    // Science & Technology
+    # Science & Technology
     "Scientific Discovery Explanation",
     "Technology Trend Analysis",
     "Tech Product Review",
@@ -418,7 +418,7 @@ topics = [
     "Scientific History Article",
     "Tech Industry Profile",
     
-    // Finance & Economics
+    # Finance & Economics
     "Financial Report",
     "Investment Analysis",
     "Economic Trend Forecast",
@@ -435,7 +435,7 @@ topics = [
     "Financial Risk Assessment",
     "Economic Impact Analysis",
     
-    // Email Content
+    # Email Content
     "Cold Outreach Email",
     "Follow-up Email",
     "Thank You Email",
@@ -452,7 +452,7 @@ topics = [
     "Recommendation Request Email",
     "Feedback Request Email",
     
-    // Persuasive Writing
+    # Persuasive Writing
     "Persuasive Essay",
     "Opinion Piece",
     "Argumentative Essay",
@@ -469,7 +469,7 @@ topics = [
     "Persuasive Letter",
     "Motivational Message",
     
-    // Special Occasions
+    # Special Occasions
     "Wedding Toast",
     "Eulogy",
     "Graduation Speech",
@@ -486,7 +486,7 @@ topics = [
     "Memorial Tribute",
     "Baby Shower Message",
     
-    // SEO Content
+    # SEO Content
     "SEO-Optimized Blog Post",
     "Keyword Research Analysis",
     "Meta Description",
@@ -503,7 +503,7 @@ topics = [
     "Competitor SEO Analysis",
     "Link-Building Content",
     
-    // Current Events & News
+    # Current Events & News
     "News Article",
     "Current Event Analysis",
     "News Summary",
@@ -520,7 +520,7 @@ topics = [
     "Crisis Communication",
     "Public Announcement",
     
-    // Storytelling Formats
+    # Storytelling Formats
     "Hero's Journey Narrative",
     "Case Study Story",
     "Personal Transformation Story",
@@ -537,7 +537,7 @@ topics = [
     "Historical Narrative",
     "Future Scenario",
     
-    // Instructional & How-To
+    # Instructional & How-To
     "Step-by-Step Tutorial",
     "How-To Guide",
     "DIY Instructions",
@@ -554,7 +554,7 @@ topics = [
     "Maintenance Guide",
     "Setup Instructions",
     
-    // Community & Social
+    # Community & Social
     "Community Guidelines",
     "Group Introduction",
     "Volunteer Opportunity Description",
