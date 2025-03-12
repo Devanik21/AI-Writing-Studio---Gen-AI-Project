@@ -13,16 +13,16 @@ st.markdown(
     """
     <style>
         body {
-            background-color: #f5f5dc;
+            background-color: #07494f;
         }
         .stTextInput>div>div>input, .stSelectbox>div>div {
-            background-color: #fff7e6;
+            background-color: #07494f;
             border-radius: 10px;
             padding: 8px;
             font-weight: bold;
         }
         .stButton>button {
-            background: linear-gradient(to right, #ff7f50, #ff4500);
+            background: linear-gradient(to right, #141414, #3000b3);
             color: white;
             font-weight: bold;
             border-radius: 10px;
